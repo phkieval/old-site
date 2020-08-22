@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  21 AUG 2020 22:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  21 AUG 2020 23:05
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2536,10 +2536,14 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.98 <
-      table>
+      !--<table>
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+Missing character: There is no < in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
 Missing character: There is no < in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -3308,62 +3312,31 @@ Missing character: There is no / in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no > in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no > in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no ' in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no > in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no > in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 109--111
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 <
+       /ul>
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 Missing character: There is no < in font nullfont!
 Missing character: There is no / in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no > in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 109--113
-[]
+Overfull \hbox (20.0pt too wide) in paragraph at lines 112--113
+[] 
  []
 
 
@@ -4218,75 +4191,62 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 
+l.128 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 126--130
+Overfull \hbox (20.0pt too wide) in paragraph at lines 126--128
 []
  []
 
 
-Overfull \hbox (119.74725pt too wide) in paragraph at lines 126--130
+Overfull \hbox (119.74725pt too wide) in paragraph at lines 126--128
 []\OT1/cmr/m/n/10 621[]\OML/cmm/m/it/10 yllabus[]an\OT1/cmr/m/n/10 7\OML/cmm/m/
 it/10 :pdf\OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 dl \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (18.36108pt too wide) in paragraph at lines 126--130
+Overfull \hbox (18.36108pt too wide) in paragraph at lines 126--128
 \OT1/cmr/m/n/10 0[] \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (91.11658pt too wide) in paragraph at lines 126--130
+Overfull \hbox (91.11658pt too wide) in paragraph at lines 126--128
 \OML/cmm/m/it/10 Linktothesyllabus <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 126--130
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 126--128
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (29.95903pt too wide) in paragraph at lines 126--130
-\OML/cmm/m/it/10 =li ><
+Overfull \hbox (22.18123pt too wide) in paragraph at lines 126--128
+\OML/cmm/m/it/10 =li >$ 
  []
 
 
-Overfull \hbox (10.55559pt too wide) in paragraph at lines 126--130
-\OT1/cmr/m/n/10 ! \OMS/cmsy/m/n/10 ^^@
- []
+! LaTeX Error: Missing \begin{document}.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129 <
+       /ul>
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-Overfull \hbox (18.33331pt too wide) in paragraph at lines 126--130
-\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 <
- []
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no > in font nullfont!
 
-
-Overfull \hbox (17.18121pt too wide) in paragraph at lines 126--130
-\OML/cmm/m/it/10 li >
- []
-
-
-Overfull \hbox (142.1601pt too wide) in paragraph at lines 126--130
-\OML/cmm/m/it/10 TKHereisareviewbyastudent <
- []
-
-
-Overfull \hbox (22.18123pt too wide) in paragraph at lines 126--130
-\OML/cmm/m/it/10 =li >
- []
-
-
-Overfull \hbox (33.88892pt too wide) in paragraph at lines 126--130
-\OMS/cmsy/m/n/10 ^^@^^@ \OML/cmm/m/it/10 ><
- []
-
-
-Overfull \hbox (24.46068pt too wide) in paragraph at lines 126--130
-\OML/cmm/m/it/10 =ul >$ 
+Overfull \hbox (20.0pt too wide) in paragraph at lines 129--130
+[] 
  []
 
 
@@ -5316,80 +5276,67 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.151 
+l.148 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 147--151
+Overfull \hbox (20.0pt too wide) in paragraph at lines 147--148
 []
  []
 
 
-Overfull \hbox (139.78276pt too wide) in paragraph at lines 147--151
+Overfull \hbox (139.78276pt too wide) in paragraph at lines 147--148
 []\OML/cmm/m/it/10 ympathyForce[]EV\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :pdf\OT1/c
 mr/m/n/10 ?\OML/cmm/m/it/10 dl \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (18.36108pt too wide) in paragraph at lines 147--151
+Overfull \hbox (18.36108pt too wide) in paragraph at lines 147--148
 \OT1/cmr/m/n/10 0[] \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (91.11658pt too wide) in paragraph at lines 147--151
+Overfull \hbox (91.11658pt too wide) in paragraph at lines 147--148
 \OML/cmm/m/it/10 Linktothesyllabus <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 147--151
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 147--148
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (29.95903pt too wide) in paragraph at lines 147--151
-\OML/cmm/m/it/10 =li ><
+Overfull \hbox (22.18123pt too wide) in paragraph at lines 147--148
+\OML/cmm/m/it/10 =li >$ 
  []
 
 
-Overfull \hbox (10.55559pt too wide) in paragraph at lines 147--151
-\OT1/cmr/m/n/10 ! \OMS/cmsy/m/n/10 ^^@
- []
+! LaTeX Error: Missing \begin{document}.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 <
+       /ul>
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-Overfull \hbox (18.33331pt too wide) in paragraph at lines 147--151
-\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 <
- []
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no > in font nullfont!
 
-
-Overfull \hbox (17.18121pt too wide) in paragraph at lines 147--151
-\OML/cmm/m/it/10 li >
- []
-
-
-Overfull \hbox (144.45934pt too wide) in paragraph at lines 147--151
-\OML/cmm/m/it/10 Linktoagalleryofstudentwork <
- []
-
-
-Overfull \hbox (22.18123pt too wide) in paragraph at lines 147--151
-\OML/cmm/m/it/10 =li >
- []
-
-
-Overfull \hbox (33.88892pt too wide) in paragraph at lines 147--151
-\OMS/cmsy/m/n/10 ^^@^^@ \OML/cmm/m/it/10 ><
- []
-
-
-Overfull \hbox (32.23848pt too wide) in paragraph at lines 147--151
-\OML/cmm/m/it/10 =ul ><
- []
-
-
-Overfull \hbox (24.3715pt too wide) in paragraph at lines 147--151
-\OML/cmm/m/it/10 =td >$ 
+Overfull \hbox (20.0pt too wide) in paragraph at lines 149--151
+[]
  []
 
 
@@ -6460,52 +6407,11 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166     <
-           !-- <li>TKHere is a review by a student</li> -->
+l.167 <
+       /ul>
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no < in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no > in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no K in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no > in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no > in font nullfont!
 Missing character: There is no < in font nullfont!
 Missing character: There is no / in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -6605,7 +6511,7 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no > in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 166--173
+Overfull \hbox (20.0pt too wide) in paragraph at lines 167--173
 []
  []
 
@@ -6617,7 +6523,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.175     <
-           /table>
+           /table>-->
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -6628,6 +6534,9 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
 Missing character: There is no > in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 175--176
@@ -6687,7 +6596,7 @@ Missing character: There is no > in font nullfont!
 Here is how much of TeX's memory you used:
  21 strings out of 481248
  443 string characters out of 5912259
- 240129 words of memory out of 5000000
+ 239129 words of memory out of 5000000
  15379 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191

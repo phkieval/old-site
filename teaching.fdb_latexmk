@@ -1,10 +1,10 @@
 # Fdb version 3
-["pdflatex"] 1598068310 "teaching.html" "teaching.pdf" "teaching" 1598068310
+["pdflatex"] 1598069134 "teaching.html" "teaching.pdf" "teaching" 1598069134
   "d:/Program Files (x86)/texlive/2019/texmf-dist/web2c/texmf.cnf" 1581300998 39451 6c50cbbc48279cc2d67f72e32ca48ad5 ""
   "d:/Program Files (x86)/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1581303117 8260114 360014e47c98aa6fe9a491e54e0de78d ""
   "d:/Program Files (x86)/texlive/2019/texmf.cnf" 1581302970 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   "teaching.aux" 1598062323 9 a94a2480d3289e625eea47cd1b285758 ""
-  "teaching.html" 1598067023 7758 0ce4f31670a7e29322f4257c8b27d7be ""
+  "teaching.html" 1598069132 7557 5e2fb349d4ed016b4937de8bb8b9567d ""
   (generated)
-  "teaching.pdf"
   "teaching.log"
+  "teaching.pdf"
