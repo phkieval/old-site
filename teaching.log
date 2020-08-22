@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  22 AUG 2020 00:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  22 AUG 2020 13:21
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1006,10 +1006,11 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no " in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -1101,7 +1102,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.41         <
-              a href="home.html">
+              a href="index.html">
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1113,10 +1114,11 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no " in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -1150,10 +1152,11 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no " in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
 Missing character: There is no " in font nullfont!
 Missing character: There is no > in font nullfont!
 Missing character: There is no < in font nullfont!
@@ -1474,90 +1477,26 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.65 <
-      a href="https://docs.google.com/document/d/e/2PACX-1vTdaIKg76Qe7jljtWi...
+      a target = "_blank" href="https://docs.google.com/document/d/e/2PACX-1...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no < in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no " in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no X in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no K in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 6 in font nullfont!
-Missing character: There is no Q in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no W in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no z in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.65 ...ocument/d/e/2PACX-1vTdaIKg76Qe7jljtWii2Ez_
-                                                  CVzYLZP4CBYtXkC015OhxraInZ...
+l.65 <a target = "_
+                   blank" href="https://docs.google.com/document/d/e/2PACX-1...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -1579,12 +1518,31 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 65--71
  []
 
 
-Overfull \hbox (382.60898pt too wide) in paragraph at lines 65--71
-[]\OML/cmm/m/it/10 VzYLZP\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 CBYtXkC\OT1/cmr/m/n/
-10 015\OML/cmm/m/it/10 OhxraInZdoS\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 tOcD\OT1/cm
-r/m/n/10 98\OML/cmm/m/it/10 YccoUFly\OT1/cmr/m/n/10 24\OML/cmm/m/it/10 Egp\OT1/
-cmr/m/n/10 2\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 06\OML/cmm/m/it/10 cZH=pub\OT1/cm
-r/m/n/10 " \OML/cmm/m/it/10 ><
+Overfull \hbox (60.74132pt too wide) in paragraph at lines 65--71
+[]\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 href \OT1/cmr/m/n/10 =
+
+ []
+
+
+Overfull \hbox (33.25807pt too wide) in paragraph at lines 65--71
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (198.39998pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ==docs:google:com=document=d=e=\OT1/cmr/m/n/10 2\OML/cmm/m/it/
+10 PACX \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (509.1227pt too wide) in paragraph at lines 65--71
+\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 vTdaIKg\OT1/cmr/m/n/10 76\OML/cmm/m/it/10 Qe\
+OT1/cmr/m/n/10 7\OML/cmm/m/it/10 jljtWii\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 Ez[]V
+zYLZP\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 CBYtXkC\OT1/cmr/m/n/10 015\OML/cmm/m/it/
+10 OhxraInZdoS\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 tOcD\OT1/cmr/m/n/10 98\OML/cmm/
+m/it/10 YccoUFly\OT1/cmr/m/n/10 24\OML/cmm/m/it/10 Egp\OT1/cmr/m/n/10 2\OML/cmm
+/m/it/10 k\OT1/cmr/m/n/10 06\OML/cmm/m/it/10 cZH=pub\OT1/cmr/m/n/10 " \OML/cmm/
+m/it/10 ><
  []
 
 
@@ -3047,7 +3005,7 @@ Missing character: There is no > in font nullfont!
 Here is how much of TeX's memory you used:
  19 strings out of 481248
  428 string characters out of 5912259
- 238129 words of memory out of 5000000
+ 239129 words of memory out of 5000000
  15377 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
