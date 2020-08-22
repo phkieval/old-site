@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  22 AUG 2020 13:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  22 AUG 2020 13:31
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -992,10 +992,11 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no " in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -1087,7 +1088,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.38          <
-               a href="home.html">
+               a href="index.html">
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1099,10 +1100,11 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no f in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no " in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -1136,10 +1138,11 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no " in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
 Missing character: There is no " in font nullfont!
 Missing character: There is no > in font nullfont!
 Missing character: There is no < in font nullfont!
