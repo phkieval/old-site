@@ -150,6 +150,11 @@ height:3%;
   
   }
 
+  #deep-learning{
+  background-image:url(./imgs/deep_learning.png);
+
+  }
+
   #neural-net{
   background-image:url(./imgs/neuralnet_color.png);
 
@@ -168,8 +173,8 @@ height:3%;
     background-image:url(./imgs/abstract1.png);
   }
 
-  #ethics-pic{
-  background-image:url(./imgs/nypd.jpg); /* cameras.jpg); */
+  #teaching-pic{
+  background-image:url(./imgs/chalkboard.jpg); /* cameras.jpg); */
 
   }
 
@@ -241,9 +246,9 @@ height:3%;
 
 
 
-           .officehour{
+           .contact{
             box-shadow: 2px 4px 8px 5px #999999;
-                    background-image:url(imgs/teaching-edited.jpg);
+                    background-image:url(imgs/uhheadshot.jpg);
                     position: relative;
                     background-size:cover; 
                     margin-top:10%;
