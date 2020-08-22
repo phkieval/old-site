@@ -1,0 +1,6 @@
+PWD C:/Users/Phillip/Desktop/Github/phkieval.github.io
+INPUT d:/Program Files (x86)/texlive/2019/texmf.cnf
+INPUT d:/Program Files (x86)/texlive/2019/texmf-dist/web2c/texmf.cnf
+INPUT d:/Program Files (x86)/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT index.html
+OUTPUT index.log
