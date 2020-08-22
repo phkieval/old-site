@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  22 AUG 2020 00:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  22 AUG 2020 00:31
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1410,6 +1410,10 @@ Missing character: There is no / in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no > in font nullfont!
 Missing character: There is no < in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no < in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -1498,120 +1502,115 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.68 
+l.60 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 44--68
+Overfull \hbox (20.0pt too wide) in paragraph at lines 44--60
 []
  []
 
 
-Overfull \hbox (382.60898pt too wide) in paragraph at lines 44--68
+Overfull \hbox (374.83118pt too wide) in paragraph at lines 44--60
 []\OML/cmm/m/it/10 VzYLZP\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 CBYtXkC\OT1/cmr/m/n/
 10 015\OML/cmm/m/it/10 OhxraInZdoS\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 tOcD\OT1/cm
 r/m/n/10 98\OML/cmm/m/it/10 YccoUFly\OT1/cmr/m/n/10 24\OML/cmm/m/it/10 Egp\OT1/
 cmr/m/n/10 2\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 06\OML/cmm/m/it/10 cZH=pub\OT1/cm
-r/m/n/10 " \OML/cmm/m/it/10 ><
+r/m/n/10 " \OML/cmm/m/it/10 >$ 
  []
 
 
-Overfull \hbox (10.55559pt too wide) in paragraph at lines 44--68
-\OT1/cmr/m/n/10 ! \OMS/cmsy/m/n/10 ^^@
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61             <
+                  div class="menu-links" id="cv">
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no < in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no > in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 61--66
+[]
  []
 
 
-Overfull \hbox (18.33331pt too wide) in paragraph at lines 44--68
-\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 <
- []
+! LaTeX Error: Missing \begin{document}.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67  -
+       ->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-Overfull \hbox (37.02087pt too wide) in paragraph at lines 44--68
-\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
- []
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
 
-
-Overfull \hbox (33.25807pt too wide) in paragraph at lines 44--68
-\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
- []
-
-
-Overfull \hbox (180.59851pt too wide) in paragraph at lines 44--68
-\OML/cmm/m/it/10 ==share:getcloudapp:com=z\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 unl
-QGD\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
- []
-
-
-Overfull \hbox (33.88892pt too wide) in paragraph at lines 44--68
-\OMS/cmsy/m/n/10 ^^@^^@ \OML/cmm/m/it/10 ><
- []
-
-
-Overfull \hbox (46.58054pt too wide) in paragraph at lines 44--68
-\OML/cmm/m/it/10 divclass \OT1/cmr/m/n/10 =
- []
-
-
-Overfull \hbox (37.94115pt too wide) in paragraph at lines 44--68
-\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 menu \OMS/cmsy/m/n/10 ^^@
- []
-
-
-Overfull \hbox (47.04192pt too wide) in paragraph at lines 44--68
-\OML/cmm/m/it/10 links\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 id \OT1/cmr/m/n/10 =
- []
-
-
-Overfull \hbox (37.86691pt too wide) in paragraph at lines 44--68
-\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 cv\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 ><
- []
-
-
-Overfull \hbox (15.58676pt too wide) in paragraph at lines 44--68
-\OML/cmm/m/it/10 p >
- []
-
-
-Overfull \hbox (26.47356pt too wide) in paragraph at lines 44--68
-\OML/cmm/m/it/10 CV <
- []
-
-
-Overfull \hbox (28.36458pt too wide) in paragraph at lines 44--68
-\OML/cmm/m/it/10 =p ><
- []
-
-
-Overfull \hbox (37.18933pt too wide) in paragraph at lines 44--68
-\OML/cmm/m/it/10 =div ><
- []
-
-
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 44--68
-\OML/cmm/m/it/10 =a ><
- []
-
-
-Overfull \hbox (37.18933pt too wide) in paragraph at lines 44--68
-\OML/cmm/m/it/10 =div ><
- []
-
-
-Overfull \hbox (10.55559pt too wide) in paragraph at lines 44--68
-\OT1/cmr/m/n/10 ! \OMS/cmsy/m/n/10 ^^@
- []
-
-
-Overfull \hbox (253.54106pt too wide) in paragraph at lines 44--68
-\OMS/cmsy/m/n/10 ^^@\OML/cmm/m/it/10 Aboveistheendofthemenubardivandallthelinks
-inside: \OMS/cmsy/m/n/10 ^^@
- []
-
-
-Overfull \hbox (18.33331pt too wide) in paragraph at lines 44--68
-\OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 >$ 
+Overfull \hbox (20.0pt too wide) in paragraph at lines 67--68
+[] 
  []
 
 
@@ -2276,7 +2275,7 @@ Missing character: There is no > in font nullfont!
 Here is how much of TeX's memory you used:
  19 strings out of 481248
  428 string characters out of 5912259
- 238129 words of memory out of 5000000
+ 237129 words of memory out of 5000000
  15377 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
