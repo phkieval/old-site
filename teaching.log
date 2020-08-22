@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  22 AUG 2020 00:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  22 AUG 2020 00:38
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1474,15 +1474,11 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.65 <
-      !--<a href="https://docs.google.com/document/d/e/2PACX-1vTdaIKg76Qe7jl...
+      a href="https://docs.google.com/document/d/e/2PACX-1vTdaIKg76Qe7jljtWi...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no < in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
 Missing character: There is no < in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -1639,26 +1635,6 @@ Overfull \hbox (28.61922pt too wide) in paragraph at lines 65--71
 
 Overfull \hbox (29.41153pt too wide) in paragraph at lines 65--71
 \OML/cmm/m/it/10 =div >$ 
- []
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.72 -
-      ->
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no > in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 72--73
-[] 
  []
 
 

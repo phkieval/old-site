@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  22 AUG 2020 00:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  22 AUG 2020 00:38
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1410,10 +1410,6 @@ Missing character: There is no / in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no > in font nullfont!
 Missing character: There is no < in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no < in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -1591,26 +1587,6 @@ Missing character: There is no > in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 61--66
 []
- []
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.67  -
-       ->
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no > in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 67--68
-[] 
  []
 
 
