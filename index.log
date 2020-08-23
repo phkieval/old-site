@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  22 AUG 2020 22:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  23 AUG 2020 17:05
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1490,66 +1490,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.71 <
-      !--         <a href="https://share.getcloudapp.com/z8unlQGD"> -->
+l.72    <
+         a target = "_blank" href="https://docs.google.com/document/d/e/2PAC...
+
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no < in font nullfont!
-Missing character: There is no ! in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no < in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no = in font nullfont!
-Missing character: There is no " in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no z in font nullfont!
-Missing character: There is no 8 in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no Q in font nullfont!
-Missing character: There is no G in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no " in font nullfont!
-Missing character: There is no > in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no > in font nullfont!
 Missing character: There is no < in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -1581,29 +1527,29 @@ I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 71--78
+Overfull \hbox (20.0pt too wide) in paragraph at lines 72--78
 []
  []
 
 
-Overfull \hbox (60.74132pt too wide) in paragraph at lines 71--78
+Overfull \hbox (60.74132pt too wide) in paragraph at lines 72--78
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 href \OT1/cmr/m/n/10 =
 
  []
 
 
-Overfull \hbox (33.25807pt too wide) in paragraph at lines 71--78
+Overfull \hbox (33.25807pt too wide) in paragraph at lines 72--78
 \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (198.39998pt too wide) in paragraph at lines 71--78
+Overfull \hbox (198.39998pt too wide) in paragraph at lines 72--78
 \OML/cmm/m/it/10 ==docs:google:com=document=d=e=\OT1/cmr/m/n/10 2\OML/cmm/m/it/
 10 PACX \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (509.1227pt too wide) in paragraph at lines 71--78
+Overfull \hbox (509.1227pt too wide) in paragraph at lines 72--78
 \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 vTdaIKg\OT1/cmr/m/n/10 76\OML/cmm/m/it/10 Qe\
 OT1/cmr/m/n/10 7\OML/cmm/m/it/10 jljtWii\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 Ez[]V
 zYLZP\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 CBYtXkC\OT1/cmr/m/n/10 015\OML/cmm/m/it/
@@ -1614,52 +1560,52 @@ m/it/10 ><
  []
 
 
-Overfull \hbox (46.58054pt too wide) in paragraph at lines 71--78
+Overfull \hbox (46.58054pt too wide) in paragraph at lines 72--78
 \OML/cmm/m/it/10 divclass \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (37.94115pt too wide) in paragraph at lines 71--78
+Overfull \hbox (37.94115pt too wide) in paragraph at lines 72--78
 \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 menu \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (47.04192pt too wide) in paragraph at lines 71--78
+Overfull \hbox (47.04192pt too wide) in paragraph at lines 72--78
 \OML/cmm/m/it/10 links\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 id \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (37.86691pt too wide) in paragraph at lines 71--78
+Overfull \hbox (37.86691pt too wide) in paragraph at lines 72--78
 \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 cv\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 ><
  []
 
 
-Overfull \hbox (15.58676pt too wide) in paragraph at lines 71--78
+Overfull \hbox (15.58676pt too wide) in paragraph at lines 72--78
 \OML/cmm/m/it/10 p >
  []
 
 
-Overfull \hbox (26.47356pt too wide) in paragraph at lines 71--78
+Overfull \hbox (26.47356pt too wide) in paragraph at lines 72--78
 \OML/cmm/m/it/10 CV <
  []
 
 
-Overfull \hbox (28.36458pt too wide) in paragraph at lines 71--78
+Overfull \hbox (28.36458pt too wide) in paragraph at lines 72--78
 \OML/cmm/m/it/10 =p ><
  []
 
 
-Overfull \hbox (37.18933pt too wide) in paragraph at lines 71--78
+Overfull \hbox (37.18933pt too wide) in paragraph at lines 72--78
 \OML/cmm/m/it/10 =div ><
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 71--78
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 72--78
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (29.41153pt too wide) in paragraph at lines 71--78
+Overfull \hbox (29.41153pt too wide) in paragraph at lines 72--78
 \OML/cmm/m/it/10 =div >$ 
  []
 
