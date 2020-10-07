@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  24 AUG 2020 16:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.9)  6 OCT 2020 21:47
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1477,8 +1477,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.65 <
-      a target = "_blank" href="https://docs.google.com/document/d/e/2PACX-1...
-
+      a target = "_blank" href="KievalCV.pdf">
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -1496,7 +1495,7 @@ Missing character: There is no " in font nullfont!
 <inserted text> 
                 $
 l.65 <a target = "_
-                   blank" href="https://docs.google.com/document/d/e/2PACX-1...
+                   blank" href="KievalCV.pdf">
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -1524,25 +1523,9 @@ Overfull \hbox (60.74132pt too wide) in paragraph at lines 65--71
  []
 
 
-Overfull \hbox (33.25807pt too wide) in paragraph at lines 65--71
-\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 https \OT1/cmr/m/n/10 :
- []
-
-
-Overfull \hbox (198.39998pt too wide) in paragraph at lines 65--71
-\OML/cmm/m/it/10 ==docs:google:com=document=d=e=\OT1/cmr/m/n/10 2\OML/cmm/m/it/
-10 PACX \OMS/cmsy/m/n/10 ^^@
- []
-
-
-Overfull \hbox (509.1227pt too wide) in paragraph at lines 65--71
-\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 vTdaIKg\OT1/cmr/m/n/10 76\OML/cmm/m/it/10 Qe\
-OT1/cmr/m/n/10 7\OML/cmm/m/it/10 jljtWii\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 Ez[]V
-zYLZP\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 CBYtXkC\OT1/cmr/m/n/10 015\OML/cmm/m/it/
-10 OhxraInZdoS\OT1/cmr/m/n/10 5\OML/cmm/m/it/10 tOcD\OT1/cmr/m/n/10 98\OML/cmm/
-m/it/10 YccoUFly\OT1/cmr/m/n/10 24\OML/cmm/m/it/10 Egp\OT1/cmr/m/n/10 2\OML/cmm
-/m/it/10 k\OT1/cmr/m/n/10 06\OML/cmm/m/it/10 cZH=pub\OT1/cmr/m/n/10 " \OML/cmm/
-m/it/10 ><
+Overfull \hbox (90.8864pt too wide) in paragraph at lines 65--71
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 KievalCV:pdf\OT1/cmr/m/n/10 " \OML/cmm/m/it/1
+0 ><
  []
 
 
@@ -1925,7 +1908,6 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no c in font nullfont!
-Missing character: There is no i in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -2830,5 +2812,5 @@ Here is how much of TeX's memory you used:
  15377 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,1n,15p,341b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 18i,1n,15p,340b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
