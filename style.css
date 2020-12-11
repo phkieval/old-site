@@ -148,10 +148,15 @@ height:3%;
     font-size:16px;
     
   
-  }
+  }	
 
   #deep-learning{
   background-image:url(./imgs/deep_learning.png);
+
+  }
+
+  #alphafold{
+  background-image:url(./imgs/alphafold.jpg);
 
   }
 
