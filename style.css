@@ -155,6 +155,11 @@ height:3%;
 
   }
 
+#headshotsmall{
+  background-image:url(./imgs/headshot small.jpeg);
+
+  }
+
   #alphafold{
   background-image:url(./imgs/alphafold.jpg);
 
