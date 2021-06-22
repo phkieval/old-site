@@ -86,6 +86,7 @@ height:3%;
     font-size:18px; /*maybe should be bigger? was 16x */
     font-family: 'Bell MT';
     line-height: 1.0;
+    text-align: justify;
   
 
   }
@@ -134,6 +135,7 @@ height:3%;
     font-family: 'Bell MT';
     line-height: 1.0;
     padding-left:2%;
+    text-align: justify;
   
   }
 
