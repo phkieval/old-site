@@ -139,6 +139,17 @@ height:3%;
   
   }
 
+  .research-summary{ 
+    padding-right:5%;
+/*   border:black solid 1px;
+*/    width:50%;   
+    font-size:16px;
+    font-family: 'Bell MT';
+    line-height: 1.5;
+    padding-left:2%;
+    text-align: justify;
+  
+  }
 
   .research-pics{ 
 
